@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#build
+/bin
+/build
+
+#这个文件是将不想放入到github中的文件存放
